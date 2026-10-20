@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "seed-001",
+    "name": "فول بالزيت",
+    "category": "breakfast",
+    "mealTypes": [
+      "فطار"
+    ],
+    "source": "بيتي",
+    "emoji": "🥣",
+    "description": "فول مدمس",
+    "servingGrams": 250,
+    "nutrition": {
+      "calories": 310,
+      "protein": 16,
+      "carbs": 45,
+      "fat": 8,
+      "fiber": 12
+    },
+    "confidence": "متوسط",
+    "ingredients": [
+      {
+        "name": "فول مدمس",
+        "grams": 250
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-002",
+    "name": "بيض مسلوق وعيش بلدي",
+    "category": "breakfast",
+    "mealTypes": [
+      "فطار"
+    ],
+    "source": "بيتي",
+    "emoji": "🍳",
+    "description": "بيض مسلوق + عيش بلدي",
+    "servingGrams": 180,
+    "nutrition": {
+      "calories": 360,
+      "protein": 19,
+      "carbs": 39,
+      "fat": 14,
+      "fiber": 5
+    },
+    "confidence": "متوسط",
+    "ingredients": [
+      {
+        "name": "بيض مسلوق + عيش بلدي",
+        "grams": 180
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-003",
+    "name": "جبنة قريش وخضار",
+    "category": "breakfast",
+    "mealTypes": [
+      "فطار"
+    ],
+    "source": "بيتي",
+    "emoji": "🧀",
+    "description": "جبنة قريش + طماطم وخيار + عيش",
+    "servingGrams": 220,
+    "nutrition": {
+      "calories": 290,
+      "protein": 25,
+      "carbs": 30,
+      "fat": 5,
+      "fiber": 4
+    },
+    "confidence": "متوسط",
+    "ingredients": [
+      {
+        "name": "جبنة قريش + طماطم وخيار + عيش",
+        "grams": 220
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-004",
+    "name": "طعمية وعيش",
+    "category": "breakfast",
+    "mealTypes": [
+      "فطار"
+    ],
+    "source": "بيتي",
+    "emoji": "🧆",
+    "description": "طعمية + عيش بلدي + خضار",
+    "servingGrams": 250,
+    "nutrition": {
+      "calories": 520,
+      "protein": 17,
+      "carbs": 62,
+      "fat": 23,
+      "fiber": 10
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "طعمية + عيش بلدي + خضار",
+        "grams": 250
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-005",
+    "name": "شوفان باللبن والموز",
+    "category": "breakfast",
+    "mealTypes": [
+      "فطار"
+    ],
+    "source": "بيتي",
+    "emoji": "🥣",
+    "description": "شوفان + لبن + موز",
+    "servingGrams": 350,
+    "nutrition": {
+      "calories": 420,
+      "protein": 17,
+      "carbs": 67,
+      "fat": 9,
+      "fiber": 8
+    },
+    "confidence": "متوسط",
+    "ingredients": [
+      {
+        "name": "شوفان + لبن + موز",
+        "grams": 350
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-006",
+    "name": "زبادي يوناني وفاكهة",
+    "category": "breakfast",
+    "mealTypes": [
+      "فطار"
+    ],
+    "source": "بيتي",
+    "emoji": "🍓",
+    "description": "زبادي عالي البروتين + فاكهة",
+    "servingGrams": 250,
+    "nutrition": {
+      "calories": 250,
+      "protein": 20,
+      "carbs": 32,
+      "fat": 4,
+      "fiber": 5
+    },
+    "confidence": "متوسط",
+    "ingredients": [
+      {
+        "name": "زبادي عالي البروتين + فاكهة",
+        "grams": 250
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-007",
+    "name": "ساندوتش تونة",
+    "category": "breakfast",
+    "mealTypes": [
+      "فطار"
+    ],
+    "source": "بيتي",
+    "emoji": "🥪",
+    "description": "تونة + عيش + خضار",
+    "servingGrams": 220,
+    "nutrition": {
+      "calories": 350,
+      "protein": 28,
+      "carbs": 38,
+      "fat": 7,
+      "fiber": 4
+    },
+    "confidence": "متوسط",
+    "ingredients": [
+      {
+        "name": "تونة + عيش + خضار",
+        "grams": 220
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-008",
+    "name": "شيش طاووق مع رز وسلطة",
+    "category": "lunch",
+    "mealTypes": [
+      "غدا"
+    ],
+    "source": "بيتي",
+    "emoji": "🍗",
+    "description": "فراخ مشوية + رز مطبوخ + سلطة",
+    "servingGrams": 450,
+    "nutrition": {
+      "calories": 610,
+      "protein": 48,
+      "carbs": 65,
+      "fat": 14,
+      "fiber": 7
+    },
+    "confidence": "متوسط",
+    "ingredients": [
+      {
+        "name": "فراخ مشوية + رز مطبوخ + سلطة",
+        "grams": 450
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-009",
+    "name": "فراخ مشوية ورز",
+    "category": "lunch",
+    "mealTypes": [
+      "غدا"
+    ],
+    "source": "بيتي",
+    "emoji": "🍗",
+    "description": "فراخ مشوية + رز أبيض",
+    "servingGrams": 450,
+    "nutrition": {
+      "calories": 590,
+      "protein": 46,
+      "carbs": 62,
+      "fat": 13,
+      "fiber": 2
+    },
+    "confidence": "متوسط",
+    "ingredients": [
+      {
+        "name": "فراخ مشوية + رز أبيض",
+        "grams": 450
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-010",
+    "name": "كفتة مشوية وبطاطس",
+    "category": "lunch",
+    "mealTypes": [
+      "غدا"
+    ],
+    "source": "بيتي",
+    "emoji": "🍢",
+    "description": "كفتة + بطاطس بالفرن + سلطة",
+    "servingGrams": 450,
+    "nutrition": {
+      "calories": 650,
+      "protein": 36,
+      "carbs": 52,
+      "fat": 29,
+      "fiber": 7
+    },
+    "confidence": "متوسط",
+    "ingredients": [
+      {
+        "name": "كفتة + بطاطس بالفرن + سلطة",
+        "grams": 450
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-011",
+    "name": "سمك مشوي ورز",
+    "category": "lunch",
+    "mealTypes": [
+      "غدا"
+    ],
+    "source": "بيتي",
+    "emoji": "🐟",
+    "description": "سمك مشوي + رز + سلطة",
+    "servingGrams": 450,
+    "nutrition": {
+      "calories": 520,
+      "protein": 42,
+      "carbs": 58,
+      "fat": 11,
+      "fiber": 4
+    },
+    "confidence": "متوسط",
+    "ingredients": [
+      {
+        "name": "سمك مشوي + رز + سلطة",
+        "grams": 450
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-012",
+    "name": "مكرونة وايت صوص بالفراخ",
+    "category": "lunch",
+    "mealTypes": [
+      "غدا"
+    ],
+    "source": "بيتي",
+    "emoji": "🍝",
+    "description": "مكرونة + فراخ + صوص كريمي",
+    "servingGrams": 450,
+    "nutrition": {
+      "calories": 720,
+      "protein": 42,
+      "carbs": 78,
+      "fat": 27,
+      "fiber": 4
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "مكرونة + فراخ + صوص كريمي",
+        "grams": 450
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-013",
+    "name": "مكرونة بالصلصة واللحمة",
+    "category": "lunch",
+    "mealTypes": [
+      "غدا"
+    ],
+    "source": "بيتي",
+    "emoji": "🍝",
+    "description": "مكرونة + صلصة + لحمة مفرومة",
+    "servingGrams": 450,
+    "nutrition": {
+      "calories": 640,
+      "protein": 32,
+      "carbs": 77,
+      "fat": 20,
+      "fiber": 6
+    },
+    "confidence": "متوسط",
+    "ingredients": [
+      {
+        "name": "مكرونة + صلصة + لحمة مفرومة",
+        "grams": 450
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-014",
+    "name": "ملوخية ورز وفراخ",
+    "category": "lunch",
+    "mealTypes": [
+      "غدا"
+    ],
+    "source": "بيتي",
+    "emoji": "🍲",
+    "description": "ملوخية + رز + فراخ",
+    "servingGrams": 500,
+    "nutrition": {
+      "calories": 620,
+      "protein": 43,
+      "carbs": 68,
+      "fat": 17,
+      "fiber": 7
+    },
+    "confidence": "متوسط",
+    "ingredients": [
+      {
+        "name": "ملوخية + رز + فراخ",
+        "grams": 500
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-015",
+    "name": "محشي ورق عنب",
+    "category": "lunch",
+    "mealTypes": [
+      "غدا"
+    ],
+    "source": "بيتي",
+    "emoji": "🍃",
+    "description": "ورق عنب محشي رز وزيت",
+    "servingGrams": 300,
+    "nutrition": {
+      "calories": 480,
+      "protein": 7,
+      "carbs": 68,
+      "fat": 20,
+      "fiber": 8
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "ورق عنب محشي رز وزيت",
+        "grams": 300
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-016",
+    "name": "شاورما فراخ",
+    "category": "lunch",
+    "mealTypes": [
+      "غدا"
+    ],
+    "source": "مطعم",
+    "emoji": "🌯",
+    "description": "شاورما فراخ + عيش + صوص",
+    "servingGrams": 350,
+    "nutrition": {
+      "calories": 620,
+      "protein": 35,
+      "carbs": 58,
+      "fat": 27,
+      "fiber": 5
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "شاورما فراخ + عيش + صوص",
+        "grams": 350
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-017",
+    "name": "كشري التحرير — وسط",
+    "category": "lunch",
+    "mealTypes": [
+      "غدا"
+    ],
+    "source": "مطعم",
+    "emoji": "🍛",
+    "description": "رز + مكرونة + عدس + حمص + صلصة + بصل",
+    "servingGrams": 450,
+    "nutrition": {
+      "calories": 720,
+      "protein": 22,
+      "carbs": 125,
+      "fat": 15,
+      "fiber": 15
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "رز + مكرونة + عدس + حمص + صلصة + بصل",
+        "grams": 450
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-018",
+    "name": "كشري التحرير — كبير",
+    "category": "lunch",
+    "mealTypes": [
+      "غدا"
+    ],
+    "source": "مطعم",
+    "emoji": "🍛",
+    "description": "رز + مكرونة + عدس + حمص + صلصة + بصل",
+    "servingGrams": 650,
+    "nutrition": {
+      "calories": 980,
+      "protein": 29,
+      "carbs": 168,
+      "fat": 21,
+      "fiber": 20
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "رز + مكرونة + عدس + حمص + صلصة + بصل",
+        "grams": 650
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-019",
+    "name": "بيتزا بريموز لارج نصف تشيكن ونصف دبل بيبروني",
+    "category": "lunch",
+    "mealTypes": [
+      "غدا"
+    ],
+    "source": "مطعم",
+    "emoji": "🍕",
+    "description": "بيتزا كبيرة: نصف تشيكن ونصف دبل بيبروني",
+    "servingGrams": 900,
+    "nutrition": {
+      "calories": 2400,
+      "protein": 100,
+      "carbs": 270,
+      "fat": 95,
+      "fiber": 14
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "بيتزا كبيرة: نصف تشيكن ونصف دبل بيبروني",
+        "grams": 900
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-020",
+    "name": "برجر بالجبنة وبطاطس",
+    "category": "lunch",
+    "mealTypes": [
+      "غدا"
+    ],
+    "source": "مطعم",
+    "emoji": "🍔",
+    "description": "برجر + جبنة + خبز + بطاطس",
+    "servingGrams": 500,
+    "nutrition": {
+      "calories": 950,
+      "protein": 38,
+      "carbs": 92,
+      "fat": 48,
+      "fiber": 7
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "برجر + جبنة + خبز + بطاطس",
+        "grams": 500
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-021",
+    "name": "حواوشي",
+    "category": "lunch",
+    "mealTypes": [
+      "غدا"
+    ],
+    "source": "مطعم",
+    "emoji": "🥙",
+    "description": "لحم متبل داخل عيش",
+    "servingGrams": 300,
+    "nutrition": {
+      "calories": 650,
+      "protein": 27,
+      "carbs": 58,
+      "fat": 32,
+      "fiber": 5
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "لحم متبل داخل عيش",
+        "grams": 300
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-022",
+    "name": "تونة وسلطة وعيش",
+    "category": "dinner",
+    "mealTypes": [
+      "عشا"
+    ],
+    "source": "بيتي",
+    "emoji": "🥗",
+    "description": "تونة + سلطة + عيش",
+    "servingGrams": 300,
+    "nutrition": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 35,
+      "fat": 10,
+      "fiber": 8
+    },
+    "confidence": "متوسط",
+    "ingredients": [
+      {
+        "name": "تونة + سلطة + عيش",
+        "grams": 300
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-023",
+    "name": "جبنة قريش وخضار",
+    "category": "dinner",
+    "mealTypes": [
+      "عشا"
+    ],
+    "source": "بيتي",
+    "emoji": "🧀",
+    "description": "جبنة قريش + خضار + عيش اختياري",
+    "servingGrams": 250,
+    "nutrition": {
+      "calories": 280,
+      "protein": 25,
+      "carbs": 26,
+      "fat": 6,
+      "fiber": 5
+    },
+    "confidence": "متوسط",
+    "ingredients": [
+      {
+        "name": "جبنة قريش + خضار + عيش اختياري",
+        "grams": 250
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-024",
+    "name": "أومليت بالخضار",
+    "category": "dinner",
+    "mealTypes": [
+      "عشا"
+    ],
+    "source": "بيتي",
+    "emoji": "🍳",
+    "description": "بيض + خضار + رشة زيت",
+    "servingGrams": 250,
+    "nutrition": {
+      "calories": 320,
+      "protein": 20,
+      "carbs": 12,
+      "fat": 20,
+      "fiber": 4
+    },
+    "confidence": "متوسط",
+    "ingredients": [
+      {
+        "name": "بيض + خضار + رشة زيت",
+        "grams": 250
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-025",
+    "name": "ساندوتش شاورما فراخ",
+    "category": "dinner",
+    "mealTypes": [
+      "عشا"
+    ],
+    "source": "مطعم",
+    "emoji": "🌯",
+    "description": "عيش + شاورما + صوص",
+    "servingGrams": 300,
+    "nutrition": {
+      "calories": 560,
+      "protein": 30,
+      "carbs": 55,
+      "fat": 23,
+      "fiber": 4
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "عيش + شاورما + صوص",
+        "grams": 300
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-026",
+    "name": "بيتزا — حصتان",
+    "category": "dinner",
+    "mealTypes": [
+      "عشا"
+    ],
+    "source": "مطعم",
+    "emoji": "🍕",
+    "description": "شريحتان بيتزا متوسطة",
+    "servingGrams": 300,
+    "nutrition": {
+      "calories": 700,
+      "protein": 28,
+      "carbs": 78,
+      "fat": 29,
+      "fiber": 5
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "شريحتان بيتزا متوسطة",
+        "grams": 300
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-027",
+    "name": "تفاحة ومكسرات",
+    "category": "snack",
+    "mealTypes": [
+      "سناك"
+    ],
+    "source": "بيتي",
+    "emoji": "🍎",
+    "description": "تفاحة + مكسرات",
+    "servingGrams": 180,
+    "nutrition": {
+      "calories": 260,
+      "protein": 6,
+      "carbs": 31,
+      "fat": 14,
+      "fiber": 7
+    },
+    "confidence": "متوسط",
+    "ingredients": [
+      {
+        "name": "تفاحة + مكسرات",
+        "grams": 180
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-028",
+    "name": "بروتين شيك بالموز",
+    "category": "snack",
+    "mealTypes": [
+      "سناك"
+    ],
+    "source": "بيتي",
+    "emoji": "🥤",
+    "description": "واي بروتين + لبن أو ماء + موز",
+    "servingGrams": 350,
+    "nutrition": {
+      "calories": 300,
+      "protein": 28,
+      "carbs": 35,
+      "fat": 5,
+      "fiber": 4
+    },
+    "confidence": "متوسط",
+    "ingredients": [
+      {
+        "name": "واي بروتين + لبن أو ماء + موز",
+        "grams": 350
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-029",
+    "name": "زبادي وفاكهة",
+    "category": "snack",
+    "mealTypes": [
+      "سناك"
+    ],
+    "source": "بيتي",
+    "emoji": "🍓",
+    "description": "زبادي + فاكهة",
+    "servingGrams": 200,
+    "nutrition": {
+      "calories": 180,
+      "protein": 10,
+      "carbs": 28,
+      "fat": 4,
+      "fiber": 4
+    },
+    "confidence": "متوسط",
+    "ingredients": [
+      {
+        "name": "زبادي + فاكهة",
+        "grams": 200
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-dessert-001",
+    "name": "أم علي",
+    "category": "dessert",
+    "mealTypes": [
+      "حلويات"
+    ],
+    "source": "بيتي",
+    "emoji": "🍮",
+    "description": "رقاق أو عجين مورق + لبن + مكسرات + سكر",
+    "servingGrams": 220,
+    "nutrition": {
+      "calories": 420,
+      "protein": 10,
+      "carbs": 48,
+      "fat": 21,
+      "fiber": 2
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "أم علي",
+        "grams": 220
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-dessert-002",
+    "name": "كنافة",
+    "category": "dessert",
+    "mealTypes": [
+      "حلويات"
+    ],
+    "source": "مطعم",
+    "emoji": "🍰",
+    "description": "كنافة بالسمن والقطر، حصة متوسطة",
+    "servingGrams": 150,
+    "nutrition": {
+      "calories": 520,
+      "protein": 7,
+      "carbs": 70,
+      "fat": 24,
+      "fiber": 1
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "كنافة",
+        "grams": 150
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-dessert-003",
+    "name": "بسبوسة",
+    "category": "dessert",
+    "mealTypes": [
+      "حلويات"
+    ],
+    "source": "مطعم",
+    "emoji": "🍯",
+    "description": "قطعة بسبوسة متوسطة بالقطر",
+    "servingGrams": 100,
+    "nutrition": {
+      "calories": 360,
+      "protein": 4,
+      "carbs": 53,
+      "fat": 15,
+      "fiber": 1
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "بسبوسة",
+        "grams": 100
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-dessert-004",
+    "name": "رز بلبن",
+    "category": "dessert",
+    "mealTypes": [
+      "حلويات"
+    ],
+    "source": "بيتي",
+    "emoji": "🍚",
+    "description": "أرز + لبن + سكر، طبق صغير",
+    "servingGrams": 180,
+    "nutrition": {
+      "calories": 250,
+      "protein": 7,
+      "carbs": 42,
+      "fat": 6,
+      "fiber": 0
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "رز بلبن",
+        "grams": 180
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-dessert-005",
+    "name": "آيس كريم",
+    "category": "dessert",
+    "mealTypes": [
+      "حلويات"
+    ],
+    "source": "مطعم",
+    "emoji": "🍨",
+    "description": "حصتان صغيرتان، النكهة تؤثر في القيم",
+    "servingGrams": 120,
+    "nutrition": {
+      "calories": 250,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 13,
+      "fiber": 0
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "آيس كريم",
+        "grams": 120
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-dessert-006",
+    "name": "قطعة كيك شوكولاتة",
+    "category": "dessert",
+    "mealTypes": [
+      "حلويات"
+    ],
+    "source": "مطعم",
+    "emoji": "🍫",
+    "description": "قطعة متوسطة مع كريمة حسب الوصفة",
+    "servingGrams": 120,
+    "nutrition": {
+      "calories": 430,
+      "protein": 5,
+      "carbs": 58,
+      "fat": 21,
+      "fiber": 3
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "كيك شوكولاتة",
+        "grams": 120
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-dessert-007",
+    "name": "مهلبية",
+    "category": "dessert",
+    "mealTypes": [
+      "حلويات"
+    ],
+    "source": "بيتي",
+    "emoji": "🍮",
+    "description": "لبن + نشا + سكر، طبق صغير",
+    "servingGrams": 180,
+    "nutrition": {
+      "calories": 190,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 4,
+      "fiber": 0
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "مهلبية",
+        "grams": 180
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  },
+  {
+    "id": "seed-dessert-008",
+    "name": "وافل بالشوكولاتة",
+    "category": "dessert",
+    "mealTypes": [
+      "حلويات"
+    ],
+    "source": "مطعم",
+    "emoji": "🧇",
+    "description": "وافل مع صوص شوكولاتة وإضافات",
+    "servingGrams": 250,
+    "nutrition": {
+      "calories": 650,
+      "protein": 9,
+      "carbs": 88,
+      "fat": 28,
+      "fiber": 4
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "وافل",
+        "grams": 250
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "links": []
+  }
+]
