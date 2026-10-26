@@ -1483,5 +1483,421 @@
     "isFavorite": false,
     "price": 0,
     "links": []
+  },
+  {
+    "id": "home-hamam-kadab-hyper",
+    "name": "حمام كداب من الهايبر ماركت",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "سوبر ماركت",
+    "emoji": "🍗",
+    "description": "حمام كداب جاهز؛ القيم تختلف حسب الحشو والوزن وطريقة التسوية",
+    "servingGrams": 250,
+    "nutrition": {
+      "calories": 480,
+      "protein": 32,
+      "carbs": 28,
+      "fat": 25,
+      "fiber": 2
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "حمام كداب جاهز",
+        "grams": 250
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
+  },
+  {
+    "id": "home-oriental-marinated-chicken-hyper",
+    "name": "فراخ بتتبيلة شرقي من الهايبر ماركت",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "سوبر ماركت",
+    "emoji": "🍗",
+    "description": "حصة فراخ متبلة؛ التقدير يفترض تسوية مشوية بدون زيت إضافي كبير",
+    "servingGrams": 200,
+    "nutrition": {
+      "calories": 360,
+      "protein": 42,
+      "carbs": 5,
+      "fat": 18,
+      "fiber": 1
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "فراخ متبلة",
+        "grams": 200
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
+  },
+  {
+    "id": "home-shish-tawook-gomla",
+    "name": "شيش طاووق من جملة ماركت",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "سوبر ماركت",
+    "emoji": "🍢",
+    "description": "قطع فراخ متبلة؛ القيم تقديرية قبل إضافة الأرز أو العيش",
+    "servingGrams": 200,
+    "nutrition": {
+      "calories": 340,
+      "protein": 42,
+      "carbs": 6,
+      "fat": 16,
+      "fiber": 1
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "شيش طاووق",
+        "grams": 200
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
+  },
+  {
+    "id": "home-sausage-rice",
+    "name": "ورقة سجق مع أرز بالشعرية",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "بيتي",
+    "emoji": "🍲",
+    "description": "سجق مطهي في ورقة مع حصة أرز بالشعرية",
+    "servingGrams": 400,
+    "nutrition": {
+      "calories": 720,
+      "protein": 27,
+      "carbs": 70,
+      "fat": 36,
+      "fiber": 3
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "سجق وأرز بالشعرية",
+        "grams": 400
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
+  },
+  {
+    "id": "home-steak-white-sauce-pasta",
+    "name": "ستيك ووايت صوص مكرونة",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "بيتي",
+    "emoji": "🥩",
+    "description": "ستيك مع مكرونة بصوص أبيض كريمي",
+    "servingGrams": 400,
+    "nutrition": {
+      "calories": 780,
+      "protein": 43,
+      "carbs": 72,
+      "fat": 35,
+      "fiber": 4
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "ستيك ومكرونة وايت صوص",
+        "grams": 400
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
+  },
+  {
+    "id": "home-spaghetti-strips",
+    "name": "سباجتي وسترِبس فراخ",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "بيتي",
+    "emoji": "🍝",
+    "description": "مكرونة سباجتي مع شرائح فراخ مقرمشة",
+    "servingGrams": 400,
+    "nutrition": {
+      "calories": 700,
+      "protein": 32,
+      "carbs": 85,
+      "fat": 24,
+      "fiber": 4
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "سباجتي وستربس",
+        "grams": 400
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
+  },
+  {
+    "id": "home-mashed-potato-atyab-shish",
+    "name": "ماش بوتيتو وشيش طاووق أطياب",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "سوبر ماركت",
+    "emoji": "🍗",
+    "description": "شيش طاووق أطياب مع بطاطس مهروسة؛ حسب حجم الحصة وطريقة التحضير",
+    "servingGrams": 350,
+    "nutrition": {
+      "calories": 520,
+      "protein": 35,
+      "carbs": 45,
+      "fat": 21,
+      "fiber": 4
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "ماش بوتيتو وشيش طاووق",
+        "grams": 350
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
+  },
+  {
+    "id": "home-beef-paper-vermicelli-rice",
+    "name": "ورقة لحمة وأرز بالشعرية",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "بيتي",
+    "emoji": "🍖",
+    "description": "لحم مطهي في ورقة مع حصة أرز بالشعرية",
+    "servingGrams": 400,
+    "nutrition": {
+      "calories": 680,
+      "protein": 38,
+      "carbs": 66,
+      "fat": 28,
+      "fiber": 2
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "لحمة وأرز بالشعرية",
+        "grams": 400
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
+  },
+  {
+    "id": "home-pasta-bolognese",
+    "name": "مكرونة بولونيز",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "بيتي",
+    "emoji": "🍝",
+    "description": "مكرونة بصلصة طماطم ولحم مفروم",
+    "servingGrams": 350,
+    "nutrition": {
+      "calories": 580,
+      "protein": 28,
+      "carbs": 75,
+      "fat": 17,
+      "fiber": 6
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "مكرونة بولونيز",
+        "grams": 350
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
+  },
+  {
+    "id": "home-pasta-bechamel",
+    "name": "مكرونة بشاميل",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "بيتي",
+    "emoji": "🍝",
+    "description": "مكرونة بالبشاميل واللحم المفروم",
+    "servingGrams": 300,
+    "nutrition": {
+      "calories": 650,
+      "protein": 25,
+      "carbs": 62,
+      "fat": 32,
+      "fiber": 3
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "مكرونة بشاميل",
+        "grams": 300
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
+  },
+  {
+    "id": "home-lasagna",
+    "name": "مكرونة لازانيا",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "بيتي",
+    "emoji": "🍝",
+    "description": "لازانيا بالصلصة والجبن؛ القيم تختلف حسب الوصفة",
+    "servingGrams": 300,
+    "nutrition": {
+      "calories": 620,
+      "protein": 29,
+      "carbs": 58,
+      "fat": 30,
+      "fiber": 4
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "لازانيا",
+        "grams": 300
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
+  },
+  {
+    "id": "home-mixed-vegetables-basema-rice",
+    "name": "خضروات مشكلة من بسمة وأرز بالشعرية",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "سوبر ماركت",
+    "emoji": "🥦",
+    "description": "خضروات مشكلة من بسمة مع أرز بالشعرية",
+    "servingGrams": 350,
+    "nutrition": {
+      "calories": 430,
+      "protein": 10,
+      "carbs": 72,
+      "fat": 12,
+      "fiber": 9
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "خضروات مشكلة وأرز بالشعرية",
+        "grams": 350
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
+  },
+  {
+    "id": "home-beef-onion-casserole-rice",
+    "name": "طاجن لحمة بالبصل وأرز بالشعرية",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "بيتي",
+    "emoji": "🍲",
+    "description": "طاجن لحم بالبصل مع حصة أرز بالشعرية",
+    "servingGrams": 400,
+    "nutrition": {
+      "calories": 700,
+      "protein": 40,
+      "carbs": 65,
+      "fat": 30,
+      "fiber": 3
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "طاجن لحمة بالبصل وأرز",
+        "grams": 400
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
   }
 ]
