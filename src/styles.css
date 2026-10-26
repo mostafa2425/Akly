@@ -167,3 +167,22 @@
   .modal-card{width:100%!important;max-width:none!important;max-height:92dvh!important;overflow-y:auto!important;border-radius:24px 24px 0 0!important;padding:20px 16px calc(20px + env(safe-area-inset-bottom))!important}.modal-card .form-grid{grid-template-columns:1fr!important}.modal-card .span-two{grid-column:span 1!important}.modal-card .modal-footer{position:sticky;bottom:-20px;background:#fff;padding:14px 0 0}.modal-card .modal-footer .btn{flex:1}
 }
 @media(min-width:761px){.floating-actions{bottom:28px}.mobile-bottom-nav{display:none}}
+
+/* Simplified food cards and restaurant links */
+.food-library-card{display:flex;flex-direction:column;gap:0;border-radius:14px;padding:14px;box-shadow:0 2px 8px rgba(28,54,35,.025);transition:border-color .18s,box-shadow .18s,transform .18s}
+.food-library-card:hover{border-color:#cddfcf;box-shadow:0 8px 20px rgba(28,54,35,.07);transform:translateY(-1px)}
+.food-library-card h3{font-size:14px;line-height:1.65;margin:10px 0 3px;font-weight:800}
+.food-library-card>p{font-size:11px;line-height:1.7;min-height:0;margin:0 0 10px}
+.library-emoji{width:42px;height:42px;border-radius:12px;font-size:24px}
+.library-macros{gap:8px 12px;padding:9px 0;font-size:11px}
+.library-macros span{background:#f7f9f5;border-radius:7px;padding:5px 7px}
+.library-meta{margin:9px 0;align-items:center;flex-wrap:wrap;font-size:10px}
+.confidence-text{color:#929b92}
+.food-price-row{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;margin:0 0 10px;color:#788478;font-size:10px}
+.food-price-row b{font-size:10px;color:#8c958d;font-weight:500}
+.recipe-link-list{display:flex;flex-direction:column;gap:6px;margin:0 0 12px}
+.recipe-link-list a{display:flex;align-items:center;gap:6px;padding:7px 9px;border-radius:8px;background:#f5f8f3;color:#2f7749;font-size:10px;text-decoration:none;line-height:1.5}
+.recipe-link-list a:hover{background:#eaf4eb;text-decoration:underline}
+.library-actions{margin-top:auto;padding-top:4px;flex-wrap:wrap}
+.library-actions .btn{min-height:34px;border-radius:9px}
+@media(max-width:600px){.food-grid{grid-template-columns:repeat(1,minmax(0,1fr));gap:10px}.food-library-card{padding:13px}.library-actions .btn{min-height:38px}.food-library-card h3{font-size:13px}}
