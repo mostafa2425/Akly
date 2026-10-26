@@ -1108,5 +1108,380 @@
     "isCustom": false,
     "isFavorite": false,
     "links": []
+  },
+  {
+    "id": "restaurant-koshary-tahrir",
+    "name": "كشري من مطعم التحرير",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "مطعم",
+    "emoji": "🍲",
+    "description": "كشري أرز ومكرونة وعدس وحمص وصلصة وبصل محمر",
+    "servingGrams": 450,
+    "nutrition": {
+      "calories": 650,
+      "protein": 18,
+      "carbs": 112,
+      "fat": 13,
+      "fiber": 10
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "كشري مشكل",
+        "grams": 450
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": [
+      {
+        "title": "الموقع الرسمي لكشري التحرير",
+        "url": "https://www.koshary-eltahrir.com/"
+      },
+      {
+        "title": "صفحة كشري التحرير على فيسبوك",
+        "url": "https://www.facebook.com/ElTahrirEG/"
+      }
+    ]
+  },
+  {
+    "id": "restaurant-refai-hawawshi",
+    "name": "حواوشي من الرفاعي",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "مطعم",
+    "emoji": "🥙",
+    "description": "رغيف حواوشي باللحم المفروم والتوابل",
+    "servingGrams": 300,
+    "nutrition": {
+      "calories": 700,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 36,
+      "fiber": 4
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "حواوشي باللحم",
+        "grams": 300
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": [
+      {
+        "title": "صفحة حواوشي الرفاعي على فيسبوك",
+        "url": "https://www.facebook.com/Hawawshyelrefaeey/"
+      }
+    ]
+  },
+  {
+    "id": "restaurant-dahab-feteer-pizza",
+    "name": "فطير أو بيتزا من دهب",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "مطعم",
+    "emoji": "🥧",
+    "description": "فطير مشلتت أو بيتزا؛ القيم تختلف حسب الحشو والحجم",
+    "servingGrams": 300,
+    "nutrition": {
+      "calories": 780,
+      "protein": 20,
+      "carbs": 90,
+      "fat": 38,
+      "fiber": 3
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "فطير أو بيتزا",
+        "grams": 300
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
+  },
+  {
+    "id": "restaurant-shabrawy-breakfast",
+    "name": "فول وطعمية وبطاطس من الشبراوي",
+    "category": "breakfast",
+    "mealTypes": [
+      "الفطار"
+    ],
+    "source": "مطعم",
+    "emoji": "🧆",
+    "description": "وجبة فطار مصرية؛ التقدير لحصة متوسطة من الفول والطعمية والبطاطس",
+    "servingGrams": 400,
+    "nutrition": {
+      "calories": 750,
+      "protein": 22,
+      "carbs": 95,
+      "fat": 30,
+      "fiber": 14
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "فول وطعمية وبطاطس",
+        "grams": 400
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
+  },
+  {
+    "id": "restaurant-primos-pizza",
+    "name": "بيتزا من بريموز",
+    "category": "dinner",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "مطعم",
+    "emoji": "🍕",
+    "description": "حصة بيتزا؛ السعرات تتغير حسب الحجم والإضافات",
+    "servingGrams": 300,
+    "nutrition": {
+      "calories": 750,
+      "protein": 30,
+      "carbs": 82,
+      "fat": 32,
+      "fiber": 4
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "بيتزا مشكلة",
+        "grams": 300
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": [
+      {
+        "title": "صفحة Primo's Pizza على فيسبوك",
+        "url": "https://www.facebook.com/primospizzame/"
+      }
+    ]
+  },
+  {
+    "id": "restaurant-papajohns-pizza",
+    "name": "بيتزا من بابا جونز",
+    "category": "dinner",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "مطعم",
+    "emoji": "🍕",
+    "description": "حصة بيتزا؛ يفضل تحديد النوع والحجم لتحسين تقدير التغذية",
+    "servingGrams": 300,
+    "nutrition": {
+      "calories": 780,
+      "protein": 31,
+      "carbs": 86,
+      "fat": 34,
+      "fiber": 4
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "بيتزا",
+        "grams": 300
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
+  },
+  {
+    "id": "restaurant-koshary-hend",
+    "name": "كشري من هند",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "مطعم",
+    "emoji": "🍲",
+    "description": "كشري مصري بالأرز والمكرونة والعدس والحمص",
+    "servingGrams": 450,
+    "nutrition": {
+      "calories": 650,
+      "protein": 18,
+      "carbs": 112,
+      "fat": 13,
+      "fiber": 10
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "كشري",
+        "grams": 450
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": [
+      {
+        "title": "صفحة كشري وبيتزا هند على فيسبوك",
+        "url": "https://www.facebook.com/Koshari.Hend.Mohandsen/"
+      }
+    ]
+  },
+  {
+    "id": "restaurant-gardenia-home-grills",
+    "name": "مشويات من جاردينيا هوم",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "مطعم",
+    "emoji": "🍢",
+    "description": "حصة مشويات مشكلة بدون تحديد نوع اللحم أو الأطباق الجانبية",
+    "servingGrams": 300,
+    "nutrition": {
+      "calories": 650,
+      "protein": 45,
+      "carbs": 12,
+      "fat": 42,
+      "fiber": 2
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "مشويات مشكلة",
+        "grams": 300
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
+  },
+  {
+    "id": "restaurant-prime-butcher-grills",
+    "name": "مشويات من برايم بوتشر",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "مطعم",
+    "emoji": "🥩",
+    "description": "حصة لحوم مشوية؛ التقدير لا يشمل العيش أو الأرز أو الصوص",
+    "servingGrams": 250,
+    "nutrition": {
+      "calories": 600,
+      "protein": 55,
+      "carbs": 2,
+      "fat": 40,
+      "fiber": 0
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "لحم مشوي",
+        "grams": 250
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
+  },
+  {
+    "id": "restaurant-hadramout-antar",
+    "name": "مشويات من حضرموت عنتر",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "مطعم",
+    "emoji": "🍖",
+    "description": "مشويات أو لحم مع أرز؛ التقدير هنا للحوم المشوية فقط",
+    "servingGrams": 300,
+    "nutrition": {
+      "calories": 700,
+      "protein": 48,
+      "carbs": 10,
+      "fat": 48,
+      "fiber": 1
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "مشويات",
+        "grams": 300
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
+  },
+  {
+    "id": "restaurant-gardenia-seafood",
+    "name": "أسماك من جاردينيا",
+    "category": "lunch",
+    "mealTypes": [
+      "الغدا",
+      "العشا"
+    ],
+    "source": "مطعم",
+    "emoji": "🐟",
+    "description": "حصة سمك مشوي أو مطهي؛ لا تشمل الأرز أو المقليات أو الصوص",
+    "servingGrams": 250,
+    "nutrition": {
+      "calories": 420,
+      "protein": 48,
+      "carbs": 3,
+      "fat": 22,
+      "fiber": 0
+    },
+    "confidence": "منخفض",
+    "ingredients": [
+      {
+        "name": "سمك",
+        "grams": 250
+      }
+    ],
+    "sides": [],
+    "isCustom": false,
+    "isFavorite": false,
+    "price": 0,
+    "links": []
   }
 ]
